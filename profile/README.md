@@ -3,7 +3,7 @@
 Code samples, demos and documentation for interacting with the CESMII Smart Manufacturing Innovation Platform.
 
 - 💬 For developer support, please join our Discord: [cesmii.net/discord](https://www.cesmii.net/discord)
-  - 📧 You can also email us: devops@ our domain name
+  - 📧 You can also email us: devops@ cesmii dot org
 - 🌎 Visit [cesmii.org](https://www.cesmii.org) to learn more about CESMII, including membership information and project funding opportunities
   - ⚒️ You can learn about some of the projects that use these technologies here: [cesmii.org/projects/](https://www.cesmii.org/projects)
   - 📺 Our YouTube channel has training videos to help you get started: [youtube.com/@CESMII_SM](https://youtube.com/@CESMII_SM)
