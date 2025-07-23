@@ -1,6 +1,6 @@
 ### CESMII - The Smart Manufacturing Institute
 
-Code samples, demos and documentation for interacting with the CESMII Smart Manufacturing Innovation Platform.
+Code samples, demos and documentation for interacting with the CESMII Smart Manufacturing Imperatives.
 
 - 💬 For developer support, you can email us: [devops@cesmii.org](mailto:devops@cesmii.org)
 - 🌎 Visit [cesmii.org](https://www.cesmii.org) to learn more about CESMII, including membership information and project funding opportunities
